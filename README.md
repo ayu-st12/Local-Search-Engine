@@ -7,3 +7,4 @@ manual:
 1. Asks for a directory
 2. Then it searches in its directory/subdirectories for text - > "main(" i.e for main function.
 3. Search string could be changed and set to any in code.
+4. returns file and directory name.
